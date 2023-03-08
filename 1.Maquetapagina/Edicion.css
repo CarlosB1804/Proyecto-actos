@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.title{
+
+    text-align: center;
+    color: white;
+    border: 50px solid #5a3954;
+}
+
+.body  {
+    background-color: #033442;
+}
+
+section{
+    width: 45%;
+    display: inline-block;
+}
+
+.acuerdo1 {
+    color: white;
+    text-align: left;
+}
+
+.acuerdo2 {
+    color: white;
+    align-items: space-between;
+}
+
+.acuerdo3 {
+    color: white;
+    align-items: center;
+}
+
+.acuerdo4 {
+    color: white;
+    align-items: center;
+}
+
+
+.sectionh1{
+    padding: center;
+    background: #088d8c;
+    /*width: 40%;
+    display: inline-block;*/
+    border-radius: 15px;
+    font-size: 13px;
+    text-align: center;
+}
+.sectionh2{
+    padding: center;
+    background: #088d8c;
+    /*width: 40%;
+    display: inline-block;*/
+    border-radius: 15px;
+    font-size: 13px;
+    text-align: center;
+}
